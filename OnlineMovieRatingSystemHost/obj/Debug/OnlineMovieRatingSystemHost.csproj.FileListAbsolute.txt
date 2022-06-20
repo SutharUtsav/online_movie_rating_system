@@ -1,0 +1,13 @@
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystemHost.exe.config
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystemHost.exe
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystemHost.pdb
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystem.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\EntityFramework.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystem.pdb
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\OnlineMovieRatingSystem.dll.config
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\bin\Debug\EntityFramework.xml
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\obj\Debug\OnlineMovieRatingSystemHost.csproj.AssemblyReference.cache
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\obj\Debug\OnlineMovieRatingSystemHost.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\obj\Debug\OnlineMovieRatingSystemHost.csproj.CopyComplete
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\obj\Debug\OnlineMovieRatingSystemHost.exe
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystemHost\obj\Debug\OnlineMovieRatingSystemHost.pdb

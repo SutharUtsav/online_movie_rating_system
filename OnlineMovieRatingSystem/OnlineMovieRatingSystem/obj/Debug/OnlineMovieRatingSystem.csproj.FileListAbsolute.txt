@@ -1,0 +1,13 @@
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\OnlineMovieRatingSystem.dll.config
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\OnlineMovieRatingSystem.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\OnlineMovieRatingSystem.pdb
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\EntityFramework.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\EntityFramework.xml
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.dll
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.pdb
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.Migrations.init.resources
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.csproj.GenerateResource.cache
+D:\Visual Studio Project\OnlineMovieRatingSystem\OnlineMovieRatingSystem\OnlineMovieRatingSystem\obj\Debug\OnlineMovieRatingSystem.csproj.CopyComplete

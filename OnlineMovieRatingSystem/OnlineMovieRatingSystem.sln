@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieRatingSystem", "OnlineMovieRatingSystem\OnlineMovieRatingSystem.csproj", "{E9794CA1-BE8B-4826-BBB7-D8CD88A69492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieRatingSystemHost", "..\OnlineMovieRatingSystemHost\OnlineMovieRatingSystemHost.csproj", "{ECB8E6BA-95CC-4132-9E83-3FD49F87CD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9794CA1-BE8B-4826-BBB7-D8CD88A69492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9794CA1-BE8B-4826-BBB7-D8CD88A69492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9794CA1-BE8B-4826-BBB7-D8CD88A69492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9794CA1-BE8B-4826-BBB7-D8CD88A69492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB8E6BA-95CC-4132-9E83-3FD49F87CD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB8E6BA-95CC-4132-9E83-3FD49F87CD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB8E6BA-95CC-4132-9E83-3FD49F87CD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB8E6BA-95CC-4132-9E83-3FD49F87CD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE41FF5E-072C-4F49-8274-FAAB5F7A533E}
+	EndGlobalSection
+EndGlobal
